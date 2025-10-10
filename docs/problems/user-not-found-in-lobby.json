@@ -1,0 +1,5 @@
+{
+    "title": "User not found in lobby.",
+    "description": "The user you are trying to reference or remove does not exist in the specified lobby.",
+    "solution": "Verify the user ID and ensure the user is part of the lobby before performing actions."
+  }
