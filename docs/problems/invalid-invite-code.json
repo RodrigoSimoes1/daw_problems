@@ -1,0 +1,5 @@
+{
+    "title": "Invalid invite code.",
+    "description": "The invite code you provided is not valid or has expired.",
+    "solution": "Check the invite code and enter a valid one."
+  }
