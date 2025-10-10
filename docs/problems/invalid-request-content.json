@@ -1,0 +1,5 @@
+{
+  "title": "Malformed or incomplete request body.",
+  "description": "The request you sent contains invalid or missing data. The system could not process the request because it does not meet the expected format or content.",
+  "solution": "Review the request body and ensure all required fields are correctly filled in and properly formatted before sending it again."
+}
