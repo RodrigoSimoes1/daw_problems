@@ -1,0 +1,5 @@
+{
+    "title": "User already in lobby.",
+    "description": "The user you are trying to add is already present in the lobby.",
+    "solution": "Do not add the same user twice. Verify the lobby members before adding new users."
+  }
