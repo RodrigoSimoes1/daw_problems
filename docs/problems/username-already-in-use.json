@@ -1,0 +1,5 @@
+{
+    "title": "Username already in use.",
+    "description": "The username you are trying to register is already associated with an existing account.",
+    "solution": "Choose a different username that is not already in use."
+  }
