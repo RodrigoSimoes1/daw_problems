@@ -1,0 +1,5 @@
+{
+    "title": "Lobby is full.",
+    "description": "The lobby has reached its maximum number of participants and cannot accept more users.",
+    "solution": "Wait for a slot to open or join a different lobby with available space."
+  }
