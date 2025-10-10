@@ -1,0 +1,5 @@
+{
+    "title": "Lobby not found.",
+    "description": "The lobby you are trying to access does not exist or has been deleted.",
+    "solution": "Verify the lobby ID and try again with a valid lobby."
+  }
