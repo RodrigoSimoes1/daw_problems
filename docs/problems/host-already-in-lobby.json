@@ -1,0 +1,5 @@
+{
+    "title": "Host already in lobby.",
+    "description": "The host you are trying to add or assign is already present in the lobby.",
+    "solution": "Ensure the host is not already in another lobby or remove them from the current one before proceeding."
+  }
