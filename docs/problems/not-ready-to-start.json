@@ -1,0 +1,5 @@
+{
+  "title": "Lobby not ready to start.",
+  "description": "The lobby does not meet the necessary conditions to start the match",
+  "solution": "Ensure all players are ready and that the lobby meets the start conditions before trying again."
+}
