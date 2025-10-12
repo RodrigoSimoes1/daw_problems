@@ -1,0 +1,5 @@
+{
+  "title": "Lobby does not exist.",
+  "description": "The lobby you are trying to access or start a match from does not exist.",
+  "solution": "Verify that the lobby ID is correct and try again."
+}
