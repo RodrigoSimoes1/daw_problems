@@ -1,0 +1,5 @@
+{
+  "title": "Match has ended.",
+  "description": "You are trying to perform an action in a match that has already ended.",
+  "solution": "You cannot interact with a match after it has ended."
+}
