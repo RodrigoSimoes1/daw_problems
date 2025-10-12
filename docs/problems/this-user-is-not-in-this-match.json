@@ -1,0 +1,5 @@
+{
+  "title": "User not in this match.",
+  "description": "The user is trying to interact with a match they are not part of.",
+  "solution": "Join the match first or verify that you are using the correct match ID."
+}
