@@ -1,0 +1,5 @@
+{
+  "title": "Host already in a match.",
+  "description": "The user who is trying to host a new match is already hosting or participating in another match.",
+  "solution": "Finish or leave the current match before starting a new one."
+}
