@@ -1,0 +1,5 @@
+{
+  "title": "Not your turn.",
+  "description": "It is not your turn to play in the current match.",
+  "solution": "Wait until it is your turn before performing any actions."
+}
