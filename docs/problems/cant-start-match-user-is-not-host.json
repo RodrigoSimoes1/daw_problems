@@ -1,0 +1,5 @@
+{
+  "title": "User is not the host.",
+  "description": "Only the host of the lobby can start the match.",
+  "solution": "Ensure that you are the lobby host before attempting to start the match."
+}
