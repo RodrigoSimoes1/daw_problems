@@ -1,0 +1,5 @@
+{
+  "title": "Utilizador não pode pagar para jogar.",
+  "description": "O utilizador não tem saldo suficiente para efetuar o pagamento necessário para participar no jogo.",
+  "solution": "Verifique se o utilizador tem saldo suficiente."
+}
