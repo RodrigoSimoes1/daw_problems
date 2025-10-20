@@ -1,0 +1,5 @@
+{
+  "title": "Invalid Number of Rounds",
+  "description": "The number of rounds configured for the lobby is not valid.",
+  "solution": "Ensure that the minimum number of rounds is greater than or equal to the minimum number of players, and that the maximum number of rounds does not exceed twice the maximum number of players."
+}
